@@ -19,7 +19,7 @@
 
 Hi, I'm Ibnu Ubaeydillah, a passionate self-taught Full Stack Web Developer 🚀 from Indonesia.
 
-  
+  <img align="right" alt="GIF" src="https://github.com/ibnuubaeydillah13/ibnuubaeydillah13/blob/main/pp.jpg?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
