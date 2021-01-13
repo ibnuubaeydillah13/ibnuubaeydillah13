@@ -35,7 +35,6 @@ Hi, I'm Ibnu Ubaeydillah, a passionate self-taught Full Stack Web Developer 🚀
 - Html
 - CSS
 - Bootstrap
--CodeIgniter
 - VsCode
 
 <!--END_SECTION:waka-->
