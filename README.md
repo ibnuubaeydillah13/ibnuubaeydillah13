@@ -19,7 +19,7 @@
 <img align="right" alt="GIF" src="https://github.com/ibnuubaeydillah13/ibnuubaeydillah13/blob/main/pp.jpg?raw=true" width="500" height="320" />
   Hi, I'm Ibnu Ubaeydillah, a passionate self-taught Web Developer 🚀 from Indonesia.
   
-  <br/>
+  <br/><br/>
 **Talking about Personal Stuffs:**
 
 - 👨💻 I’m currently working on something cool :wink:;
