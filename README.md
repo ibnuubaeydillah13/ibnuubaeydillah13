@@ -3,15 +3,15 @@
   <img align="left" Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/ibnuubaeydillah">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Ibnu Ubaeydillah | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="#">
-  <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left"  width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="#">
   <img align="left" Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
+<a href="#">
   <img align="left" Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
 <br />
@@ -23,7 +23,6 @@
 **Talking about Personal Stuffs:**
 
 - 👨💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning Typescript; 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@ibnuubaeydillah](https://twitter.com/IbnuUbaeydillah);
 - 📝[Resume]
